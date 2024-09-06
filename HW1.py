@@ -2,4 +2,6 @@
 #6th Hour
 #HW1
 
-print("Be Kind")
+print("Hello world")
+
+print("What is your name?")
