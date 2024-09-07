@@ -1,20 +1,13 @@
 #Ryan Pool
 #Playground
 #6th Hour
-#pull test
 
-#Rock, paper, scissors
-
-#Rock + paper = paper wins
-#paper + scissors = scissors wins
-#Rock + scissors = rock wins
-
-#The conversation between you and computer leading up to the game
+#The conversation between user and computer leading up to the game
 userName = input("What is your name? ")
 print("Hello",userName)
 input("Would you like to play Rock, Paper, Scissors? ")
 
-#Asking which will you choose?
+#Asking which will user choose?
 userChoice = input("You'll play anyway. So, Rock Paper or Scissors? ").lower()
 
 #Random code function (The code for the computer picking random r p s)
