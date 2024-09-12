@@ -25,13 +25,13 @@ response = determineAnswer(userResponse)
 print(response)
 
 #user choice for r p s
-userChoice = input().lower()
+userChoice = input()
 
 #Code to make users choice valid
 choices = ['rock', 'paper', 'scissors']
 while userChoice not in choices:
     print("invalid choice, please enter rock, paper, or scissors:")
-    userChoice = input().lower()
+    userChoice = input()
 
 #Random code function (The code for the computer picking random r p s)
 import random
