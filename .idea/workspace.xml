@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Added HW4">
-      <change afterPath="$PROJECT_DIR$/Scenario.py" afterDir="false" />
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Added where user can input damage that enemies can do and then prints the list of enemies.">
+      <change afterPath="$PROJECT_DIR$/Scenario 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.HelloWorld.executor": "Run",
     "Python.Playground 2.executor": "Run",
     "Python.Playground.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
     "Python.Scenario.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -172,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726168125968</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added where user can input damage that enemies can do and then prints the list of enemies.">
+      <option name="closed" value="true" />
+      <created>1726684781253</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726684781253</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,6 +191,7 @@
     <MESSAGE value="Added Commments, print statements, lists, sum of num&#10; lists" />
     <MESSAGE value="Made rock paper scissors game" />
     <MESSAGE value="Added HW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW4" />
+    <MESSAGE value="Added where user can input damage that enemies can do and then prints the list of enemies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added where user can input damage that enemies can do and then prints the list of enemies." />
   </component>
 </project>
