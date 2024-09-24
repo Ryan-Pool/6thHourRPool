@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Added where user can input damage that enemies can do and then prints the list of enemies.">
-      <change afterPath="$PROJECT_DIR$/Scenario 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Fixed mistakes, added enemy dictionary, made code to change enemy health" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726684781253</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Fixed mistakes, added enemy dictionary, made code to change enemy health">
+      <option name="closed" value="true" />
+      <created>1727204532770</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727204532770</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,6 +197,7 @@
     <MESSAGE value="Made rock paper scissors game" />
     <MESSAGE value="Added HW4" />
     <MESSAGE value="Added where user can input damage that enemies can do and then prints the list of enemies." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added where user can input damage that enemies can do and then prints the list of enemies." />
+    <MESSAGE value="Fixed mistakes, added enemy dictionary, made code to change enemy health" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed mistakes, added enemy dictionary, made code to change enemy health" />
   </component>
 </project>
