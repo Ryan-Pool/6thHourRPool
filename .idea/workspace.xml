@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="printed hello world, created a list with 3 integers, created an if statement that compares and prints the 3 numbers">
-      <change afterPath="$PROJECT_DIR$/HW6.py" afterDir="false" />
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="printed hello world, created variable named num and assigned it a number, created an if statement following the requested structure.">
+      <change afterPath="$PROJECT_DIR$/HW7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,24 +45,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.HW1.executor": "Run",
-    "Python.HW2.executor": "Run",
-    "Python.HW3.executor": "Run",
-    "Python.HW4.executor": "Run",
-    "Python.HW5.executor": "Run",
-    "Python.HW6.executor": "Run",
-    "Python.HelloWorld.executor": "Run",
-    "Python.Playground 2.executor": "Run",
-    "Python.Playground.executor": "Run",
-    "Python.Scenario 2.executor": "Run",
-    "Python.Scenario.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/6th Hour/PycharmProjects/6thHourRPool/Playground.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Playground 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/6th Hour/PycharmProjects/6thHourRPool/Playground.py&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -223,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727463755522</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="printed hello world, created variable named num and assigned it a number, created an if statement following the requested structure.">
+      <option name="closed" value="true" />
+      <created>1727722990231</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727722990231</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,6 +244,7 @@
     <MESSAGE value="Added where user can input damage that enemies can do and then prints the list of enemies." />
     <MESSAGE value="Fixed mistakes, added enemy dictionary, made code to change enemy health" />
     <MESSAGE value="printed hello world, created a list with 3 integers, created an if statement that compares and prints the 3 numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="printed hello world, created a list with 3 integers, created an if statement that compares and prints the 3 numbers" />
+    <MESSAGE value="printed hello world, created variable named num and assigned it a number, created an if statement following the requested structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="printed hello world, created variable named num and assigned it a number, created an if statement following the requested structure." />
   </component>
 </project>
