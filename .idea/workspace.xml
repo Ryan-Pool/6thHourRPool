@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Almost finished with scenario 3">
-      <change afterPath="$PROJECT_DIR$/Scenario 3.py" afterDir="false" />
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Finished with scenario 3">
+      <change afterPath="$PROJECT_DIR$/HW8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -241,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727982488232</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Finished with scenario 3">
+      <option name="closed" value="true" />
+      <created>1729103635105</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1729103635105</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,6 +263,7 @@
     <MESSAGE value="Fixed mistakes, added enemy dictionary, made code to change enemy health" />
     <MESSAGE value="printed hello world, created a list with 3 integers, created an if statement that compares and prints the 3 numbers" />
     <MESSAGE value="printed hello world, created variable named num and assigned it a number, created an if statement following the requested structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="printed hello world, created variable named num and assigned it a number, created an if statement following the requested structure." />
+    <MESSAGE value="Finished with scenario 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished with scenario 3" />
   </component>
 </project>
