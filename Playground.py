@@ -28,7 +28,7 @@ print(response)
 userChoice = input()
 
 #Code to make users choice valid
-choices = ['rock', 'paper', 'scissors']
+choices = ['rock', 'paper', 'scissors', 'Rock', 'Paper', 'Scissors']
 while userChoice not in choices:
     print("invalid choice, please enter rock, paper, or scissors:")
     userChoice = input()
@@ -36,11 +36,11 @@ while userChoice not in choices:
 #Random code function (The code for the computer picking random r p s)
 import random
 
-#List of choices
-choices = ['rock', 'paper', 'scissors']
+#computer choices
+computerChoices = ['rock', 'paper', 'scissors']
 
 #computer choice
-computerChoice = random.choice(choices)
+computerChoice = random.choice(computerChoices)
 
 #response to the "which will you choose?" question
 print(f"I chose: {computerChoice}")
@@ -50,8 +50,11 @@ def determineWinner(user, computer):
     if user == computer:
         return "I guess we tied!"
     elif (user == 'rock' and computer == 'scissors') or \
+            (user == 'Rock' and computer == 'scissors') or \
          (user == 'scissors' and computer == 'paper') or \
-         (user == 'paper' and computer == 'rock'):
+            (user == 'Scissors' and computer == 'paper') or \
+         (user == 'paper' and computer == 'rock') or \
+            (user == 'Paper' and computer == 'rock'):
         return "Ah shucks, you won!"
     else:
         return "Yippee! I won!"
