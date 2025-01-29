@@ -2,7 +2,6 @@
 #Class: 6th Hour
 #Assignment: HW18
 import random
-from timeit import repeat
 
 
 #1. Import the "random" library and create a def function that prints "Hello World!"
@@ -14,12 +13,15 @@ beanBag = ["white", "yellow", "red", "green", "gray"]
 
 #3. Create a def function that pulls a random bean out of the beanBag list, prints which bean you pulled, and then removes it from the list.
 def beanSelect():
-    bean = random.choice(beanBag)
-    print(bean)
+    if not beanBag:
+        print("The bag is empty")
+    else:
+        bean = random.choice(beanBag)
+        print(bean)
 
-    beanBag.remove(bean)
+        beanBag.remove(bean)
 
-    repeatGame()
+        repeatGame()
 
 #4. Create a def function that asks if you want to pull another bean out of the bag and, if yes, repeats the #3 def function
 def repeatGame():
