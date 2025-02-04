@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="HW18 finished added if the list is empty">
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="HW15 edited and HW19 finished">
+      <change afterPath="$PROJECT_DIR$/Scenario 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenario 7.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +60,7 @@
     &quot;Python.HW16.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW17.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW19.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
@@ -70,6 +75,7 @@
     &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Scenario 3.executor&quot;: &quot;Run&quot;,
     &quot;Python.Scenario 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 6.executor&quot;: &quot;Run&quot;,
     &quot;Python.Scenario.executor&quot;: &quot;Run&quot;,
     &quot;Python.Test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -365,7 +371,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738180398886</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="HW15 edited and HW19 finished">
+      <option name="closed" value="true" />
+      <created>1738352336626</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1738352336626</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -393,6 +407,7 @@
     <MESSAGE value="HW17 finished" />
     <MESSAGE value="HW18 finished" />
     <MESSAGE value="HW18 finished added if the list is empty" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW18 finished added if the list is empty" />
+    <MESSAGE value="HW15 edited and HW19 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW15 edited and HW19 finished" />
   </component>
 </project>
