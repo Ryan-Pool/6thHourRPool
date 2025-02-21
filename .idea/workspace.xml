@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Scenario 6 finished">
-      <change afterPath="$PROJECT_DIR$/Scenario 7.py" afterDir="false" />
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Scenario 7 finished">
+      <change afterPath="$PROJECT_DIR$/HW20.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
@@ -62,6 +62,7 @@
     "Python.HW18.executor": "Run",
     "Python.HW19.executor": "Run",
     "Python.HW2.executor": "Run",
+    "Python.HW20.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
@@ -389,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738698114132</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Scenario 7 finished">
+      <option name="closed" value="true" />
+      <created>1738870125389</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1738870125390</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW1 Comments and &quot;Be Kind&quot;" />
     <MESSAGE value="Added comments, print statements, inputs, and integers" />
     <MESSAGE value="Added Commments, print statements, lists, sum of num&#10; lists" />
     <MESSAGE value="Made rock paper scissors game" />
@@ -418,6 +426,7 @@
     <MESSAGE value="HW18 finished added if the list is empty" />
     <MESSAGE value="HW15 edited and HW19 finished" />
     <MESSAGE value="Scenario 6 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scenario 6 finished" />
+    <MESSAGE value="Scenario 7 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scenario 7 finished" />
   </component>
 </project>
