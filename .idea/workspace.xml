@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="HW20 finished">
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Edited Playground code">
+      <change afterPath="$PROJECT_DIR$/AI Playground.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playground 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Playground 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scenario 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -406,11 +407,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740166120307</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Edited Playground code">
+      <option name="closed" value="true" />
+      <created>1740598332812</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1740598332812</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Commments, print statements, lists, sum of num&#10; lists" />
     <MESSAGE value="Made rock paper scissors game" />
     <MESSAGE value="Added HW4" />
     <MESSAGE value="Added where user can input damage that enemies can do and then prints the list of enemies." />
@@ -435,6 +443,7 @@
     <MESSAGE value="Scenario 6 finished" />
     <MESSAGE value="Scenario 7 finished" />
     <MESSAGE value="HW20 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW20 finished" />
+    <MESSAGE value="Edited Playground code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited Playground code" />
   </component>
 </project>
