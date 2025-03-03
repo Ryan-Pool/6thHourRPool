@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Edited Playground code">
-      <change afterPath="$PROJECT_DIR$/AI Playground.py" afterDir="false" />
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Snake game generated">
+      <change afterPath="$PROJECT_DIR$/HW21.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
@@ -49,44 +49,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Playground 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Playground.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario 7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Scenario6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/6th Hour/PycharmProjects/6thHourRPool/Playground.py&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AI Playground.executor": "Run",
+    "Python.HW1.executor": "Run",
+    "Python.HW10.executor": "Run",
+    "Python.HW11.executor": "Run",
+    "Python.HW12.executor": "Run",
+    "Python.HW13.executor": "Run",
+    "Python.HW14.executor": "Run",
+    "Python.HW15.executor": "Run",
+    "Python.HW16.executor": "Run",
+    "Python.HW17.executor": "Run",
+    "Python.HW18.executor": "Run",
+    "Python.HW19.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW20.executor": "Run",
+    "Python.HW21.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW4.executor": "Run",
+    "Python.HW5.executor": "Run",
+    "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
+    "Python.HW8.executor": "Run",
+    "Python.HW9.executor": "Run",
+    "Python.HelloWorld.executor": "Run",
+    "Python.Playground 2.executor": "Run",
+    "Python.Playground.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
+    "Python.Scenario 3.executor": "Run",
+    "Python.Scenario 4.executor": "Run",
+    "Python.Scenario 6.executor": "Run",
+    "Python.Scenario 7.executor": "Run",
+    "Python.Scenario.executor": "Run",
+    "Python.Scenario6.executor": "Run",
+    "Python.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/6th Hour/PycharmProjects/6thHourRPool/Playground.py"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -415,11 +417,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740598332812</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Snake game generated">
+      <option name="closed" value="true" />
+      <created>1740686889655</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1740686889655</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Made rock paper scissors game" />
     <MESSAGE value="Added HW4" />
     <MESSAGE value="Added where user can input damage that enemies can do and then prints the list of enemies." />
     <MESSAGE value="Fixed mistakes, added enemy dictionary, made code to change enemy health" />
@@ -444,6 +453,7 @@
     <MESSAGE value="Scenario 7 finished" />
     <MESSAGE value="HW20 finished" />
     <MESSAGE value="Edited Playground code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited Playground code" />
+    <MESSAGE value="Snake game generated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snake game generated" />
   </component>
 </project>
