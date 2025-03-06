@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Snake game generated">
-      <change afterPath="$PROJECT_DIR$/HW21.py" afterDir="false" />
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="HW21 Finished">
+      <change afterPath="$PROJECT_DIR$/HW22.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
@@ -66,6 +66,7 @@
     "Python.HW2.executor": "Run",
     "Python.HW20.executor": "Run",
     "Python.HW21.executor": "Run",
+    "Python.HW22.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
@@ -425,11 +426,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740686889655</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="HW21 Finished">
+      <option name="closed" value="true" />
+      <created>1741031136262</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1741031136262</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added HW4" />
     <MESSAGE value="Added where user can input damage that enemies can do and then prints the list of enemies." />
     <MESSAGE value="Fixed mistakes, added enemy dictionary, made code to change enemy health" />
     <MESSAGE value="printed hello world, created a list with 3 integers, created an if statement that compares and prints the 3 numbers" />
@@ -454,6 +462,7 @@
     <MESSAGE value="HW20 finished" />
     <MESSAGE value="Edited Playground code" />
     <MESSAGE value="Snake game generated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snake game generated" />
+    <MESSAGE value="HW21 Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW21 Finished" />
   </component>
 </project>
