@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="HW23 Finished">
-      <change afterPath="$PROJECT_DIR$/Scenario 8.py" afterDir="false" />
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Scenario 8 finished">
+      <change afterPath="$PROJECT_DIR$/HW24.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
@@ -83,6 +83,7 @@
     &quot;Python.Scenario 4.executor&quot;: &quot;Run&quot;,
     &quot;Python.Scenario 6.executor&quot;: &quot;Run&quot;,
     &quot;Python.Scenario 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 8.executor&quot;: &quot;Run&quot;,
     &quot;Python.Scenario.executor&quot;: &quot;Run&quot;,
     &quot;Python.Scenario6.executor&quot;: &quot;Run&quot;,
     &quot;Python.Test.executor&quot;: &quot;Run&quot;,
@@ -451,11 +452,18 @@
       <option name="project" value="LOCAL" />
       <updated>1741719616479</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Scenario 8 finished">
+      <option name="closed" value="true" />
+      <created>1741891276560</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1741891276560</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="printed hello world, created a list with 3 integers, created an if statement that compares and prints the 3 numbers" />
     <MESSAGE value="printed hello world, created variable named num and assigned it a number, created an if statement following the requested structure." />
     <MESSAGE value="Finished with scenario 3" />
     <MESSAGE value="Finished HW8" />
@@ -480,6 +488,7 @@
     <MESSAGE value="HW21 Finished" />
     <MESSAGE value="HW22 Finished" />
     <MESSAGE value="HW23 Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW23 Finished" />
+    <MESSAGE value="Scenario 8 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scenario 8 finished" />
   </component>
 </project>
