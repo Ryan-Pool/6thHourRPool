@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="Scenario 8 finished">
-      <change afterPath="$PROJECT_DIR$/HW24.py" afterDir="false" />
+    <list default="true" id="1545df36-ffca-410f-90fe-39b905813c63" name="Changes" comment="HW24 finished">
       <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW24.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW24.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scenario 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario6.py" afterDir="false" />
     </list>
@@ -68,6 +68,7 @@
     &quot;Python.HW21.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW22.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW24.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
     &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
@@ -460,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1741891276560</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="HW24 finished">
+      <option name="closed" value="true" />
+      <created>1742928847101</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1742928847101</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="printed hello world, created variable named num and assigned it a number, created an if statement following the requested structure." />
     <MESSAGE value="Finished with scenario 3" />
     <MESSAGE value="Finished HW8" />
     <MESSAGE value="Finished HW9" />
@@ -489,6 +497,7 @@
     <MESSAGE value="HW22 Finished" />
     <MESSAGE value="HW23 Finished" />
     <MESSAGE value="Scenario 8 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scenario 8 finished" />
+    <MESSAGE value="HW24 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW24 finished" />
   </component>
 </project>
