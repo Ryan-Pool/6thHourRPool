@@ -23,7 +23,7 @@ class TinyBrain(nn.Module):
         )
 
     def forward(self, x):
-        return self.modelf(x)
+        return self.model(x)
 
 brain = TinyBrain()
 
@@ -31,7 +31,6 @@ x_train = torch.tensor(x.reshape(-1, 1), dtype=torch.float32)
 y_train = torch.tensor(y.reshape(-1, 1), dtype=torch.float32)
 
 loss_function = nn.MSELoss()
-
 optimizer = torch.optim.Adam(brain.parameters(), lr=0.01)
 
 for epoch in range(1000):
@@ -46,13 +45,15 @@ for epoch in range(1000):
 
 
 with torch.no_grad():
-    y_pred = brain(x_train).numpy()
+    y_pred = brain(x_train).detach().cpu().numpy().flatten()
+
+print("Wades first few guesses:", y_pred[:5])
 
 plt.figure(figsize=(10, 5))
 plt.plot(x, y, label='True wave')
-plt.plot(x, y_pred, label='Robots learned wave', linestyle='--')
+plt.plot(x, y_pred, label='Wades learned wave', linestyle='--')
 plt.legend()
-plt.title("Did the robot learn the wave?")
+plt.title("Did Wade learn the wave?")
 plt.xlabel("x")
 plt.ylabel("wave height")
 plt.grid(True)
